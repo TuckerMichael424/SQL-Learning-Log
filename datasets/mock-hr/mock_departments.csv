@@ -1,0 +1,1001 @@
+dept_id,dept_name,office_location,budget
+1,error: undefined method `first' for nil:NilClass,9 Commercial Plaza,3342496718.33
+2,error: undefined method `first' for nil:NilClass,4 Continental Place,1866473774.23
+3,error: undefined method `first' for nil:NilClass,2 Emmet Plaza,5463585267.27
+4,error: undefined method `first' for nil:NilClass,11 La Follette Circle,3716658821.02
+5,error: undefined method `first' for nil:NilClass,3183 Corscot Hill,5648431422.0
+6,error: undefined method `first' for nil:NilClass,78258 Pond Place,4241131495.97
+7,error: undefined method `first' for nil:NilClass,55548 Marquette Point,2840767319.82
+8,error: undefined method `first' for nil:NilClass,1086 Florence Way,4447757479.87
+9,error: undefined method `first' for nil:NilClass,0 Mcguire Road,7963346990.92
+10,error: undefined method `first' for nil:NilClass,84056 Transport Way,2662378747.2
+11,error: undefined method `first' for nil:NilClass,71451 Birchwood Circle,4993248387.83
+12,error: undefined method `first' for nil:NilClass,15762 Golf Course Place,8702362996.71
+13,error: undefined method `first' for nil:NilClass,67932 Ilene Park,1556056503.09
+14,error: undefined method `first' for nil:NilClass,47 Main Plaza,9116704014.87
+15,error: undefined method `first' for nil:NilClass,4 Badeau Junction,7273834192.22
+16,error: undefined method `first' for nil:NilClass,76500 Granby Circle,5775731748.57
+17,error: undefined method `first' for nil:NilClass,3999 Mariners Cove Junction,9559087597.19
+18,error: undefined method `first' for nil:NilClass,6 Drewry Center,5039072301.55
+19,error: undefined method `first' for nil:NilClass,5 Calypso Point,6340723096.34
+20,error: undefined method `first' for nil:NilClass,750 Transport Circle,7513212772.15
+21,error: undefined method `first' for nil:NilClass,82715 Monument Center,4078468558.89
+22,error: undefined method `first' for nil:NilClass,7 Buell Road,8228257119.07
+23,error: undefined method `first' for nil:NilClass,51577 Kings Circle,2005946648.42
+24,error: undefined method `first' for nil:NilClass,9646 Sauthoff Circle,6167985130.5
+25,error: undefined method `first' for nil:NilClass,3 Ruskin Street,4470149152.28
+26,error: undefined method `first' for nil:NilClass,4 Summer Ridge Lane,9229845560.96
+27,error: undefined method `first' for nil:NilClass,758 Meadow Ridge Street,7189338434.82
+28,error: undefined method `first' for nil:NilClass,69 Mitchell Lane,7675644966.3
+29,error: undefined method `first' for nil:NilClass,160 Londonderry Road,3610657483.63
+30,error: undefined method `first' for nil:NilClass,291 Pleasure Trail,3507934051.17
+31,error: undefined method `first' for nil:NilClass,0 Aberg Park,1881127681.4
+32,error: undefined method `first' for nil:NilClass,1160 7th Road,3185404749.34
+33,error: undefined method `first' for nil:NilClass,2 Transport Junction,706947547.94
+34,error: undefined method `first' for nil:NilClass,726 Milwaukee Place,7932284935.52
+35,error: undefined method `first' for nil:NilClass,96 Calypso Pass,9207667276.78
+36,error: undefined method `first' for nil:NilClass,93854 Manley Parkway,3440098382.17
+37,error: undefined method `first' for nil:NilClass,3 Ryan Court,4805241584.66
+38,error: undefined method `first' for nil:NilClass,3 Sutteridge Court,3158179813.0
+39,error: undefined method `first' for nil:NilClass,33 Charing Cross Circle,6291996721.96
+40,error: undefined method `first' for nil:NilClass,87 Pennsylvania Junction,5839543298.93
+41,error: undefined method `first' for nil:NilClass,4009 Arrowood Avenue,1107397204.42
+42,error: undefined method `first' for nil:NilClass,5 Commercial Point,21432485.97
+43,error: undefined method `first' for nil:NilClass,3 Pond Lane,8249139939.19
+44,error: undefined method `first' for nil:NilClass,562 Starling Circle,4546752936.36
+45,error: undefined method `first' for nil:NilClass,826 Blaine Parkway,1088630518.48
+46,error: undefined method `first' for nil:NilClass,9 Westport Court,5562918121.81
+47,error: undefined method `first' for nil:NilClass,7550 Magdeline Center,3683659751.81
+48,error: undefined method `first' for nil:NilClass,18292 Merchant Trail,5363624073.36
+49,error: undefined method `first' for nil:NilClass,324 Old Shore Center,5363302378.38
+50,error: undefined method `first' for nil:NilClass,126 Prairie Rose Crossing,8733996946.06
+51,error: undefined method `first' for nil:NilClass,365 Bayside Point,3631519479.06
+52,error: undefined method `first' for nil:NilClass,003 Vahlen Street,6140882149.56
+53,error: undefined method `first' for nil:NilClass,52 Coolidge Road,8400624823.78
+54,error: undefined method `first' for nil:NilClass,88333 Hazelcrest Way,8231061868.05
+55,error: undefined method `first' for nil:NilClass,1 Mandrake Lane,6414177632.49
+56,error: undefined method `first' for nil:NilClass,1 Weeping Birch Point,8288127753.7
+57,error: undefined method `first' for nil:NilClass,2987 Old Shore Junction,2213779178.12
+58,error: undefined method `first' for nil:NilClass,372 Texas Hill,532070859.78
+59,error: undefined method `first' for nil:NilClass,309 Namekagon Pass,6548019916.85
+60,error: undefined method `first' for nil:NilClass,9818 Park Meadow Trail,3905308822.16
+61,error: undefined method `first' for nil:NilClass,64916 Novick Park,2404198533.4
+62,error: undefined method `first' for nil:NilClass,675 Bartelt Center,4434335314.11
+63,error: undefined method `first' for nil:NilClass,249 Northridge Way,4585635517.83
+64,error: undefined method `first' for nil:NilClass,9827 Jay Way,8237131525.87
+65,error: undefined method `first' for nil:NilClass,0 Thompson Trail,1418202132.06
+66,error: undefined method `first' for nil:NilClass,0 Eagle Crest Alley,3722263680.12
+67,error: undefined method `first' for nil:NilClass,0852 Browning Alley,7342815420.08
+68,error: undefined method `first' for nil:NilClass,6 Village Drive,2132874812.01
+69,error: undefined method `first' for nil:NilClass,93 Carioca Junction,2933056944.94
+70,error: undefined method `first' for nil:NilClass,001 Duke Park,7744183064.96
+71,error: undefined method `first' for nil:NilClass,8395 Bluejay Road,4349130538.65
+72,error: undefined method `first' for nil:NilClass,40 Washington Trail,5522146298.52
+73,error: undefined method `first' for nil:NilClass,9542 Warrior Parkway,3245273875.53
+74,error: undefined method `first' for nil:NilClass,48 Bluejay Park,9910202025.61
+75,error: undefined method `first' for nil:NilClass,995 Riverside Junction,1595635274.41
+76,error: undefined method `first' for nil:NilClass,94022 Del Mar Parkway,1284868645.4
+77,error: undefined method `first' for nil:NilClass,3779 Anzinger Terrace,9342724808.22
+78,error: undefined method `first' for nil:NilClass,8977 Namekagon Road,5096977323.07
+79,error: undefined method `first' for nil:NilClass,4692 Fair Oaks Point,6420454854.58
+80,error: undefined method `first' for nil:NilClass,6521 Erie Center,3483445173.57
+81,error: undefined method `first' for nil:NilClass,82502 Caliangt Center,6120366346.66
+82,error: undefined method `first' for nil:NilClass,99 Red Cloud Court,5460628394.83
+83,error: undefined method `first' for nil:NilClass,8 Moose Drive,9864627111.82
+84,error: undefined method `first' for nil:NilClass,74 Melrose Hill,7471610656.27
+85,error: undefined method `first' for nil:NilClass,3 Westport Court,165108780.28
+86,error: undefined method `first' for nil:NilClass,2 Hoepker Hill,6958862169.83
+87,error: undefined method `first' for nil:NilClass,1602 Debra Way,4340569857.18
+88,error: undefined method `first' for nil:NilClass,6 Dakota Way,5992014126.19
+89,error: undefined method `first' for nil:NilClass,8 Dawn Circle,1433242995.06
+90,error: undefined method `first' for nil:NilClass,00066 North Parkway,987825356.03
+91,error: undefined method `first' for nil:NilClass,4743 Village Place,7780716827.67
+92,error: undefined method `first' for nil:NilClass,4548 Pleasure Court,5730549779.88
+93,error: undefined method `first' for nil:NilClass,323 Northport Place,588071745.96
+94,error: undefined method `first' for nil:NilClass,4126 Crescent Oaks Point,8227403647.71
+95,error: undefined method `first' for nil:NilClass,455 Dexter Crossing,5776503923.22
+96,error: undefined method `first' for nil:NilClass,12 Eastlawn Crossing,4936817.69
+97,error: undefined method `first' for nil:NilClass,057 Shopko Pass,8584773395.76
+98,error: undefined method `first' for nil:NilClass,3 Lotheville Avenue,8652146384.5
+99,error: undefined method `first' for nil:NilClass,28 Farmco Alley,5439779303.59
+100,error: undefined method `first' for nil:NilClass,60727 Tomscot Parkway,5267784007.89
+101,error: undefined method `first' for nil:NilClass,55 Hoffman Center,1101533355.34
+102,error: undefined method `first' for nil:NilClass,75 Towne Street,7066403016.48
+103,error: undefined method `first' for nil:NilClass,4967 Cordelia Way,1393668863.41
+104,error: undefined method `first' for nil:NilClass,35252 Vermont Alley,5858414407.63
+105,error: undefined method `first' for nil:NilClass,8404 Schurz Way,2398185856.7
+106,error: undefined method `first' for nil:NilClass,665 Hooker Parkway,5528663598.17
+107,error: undefined method `first' for nil:NilClass,7268 Lindbergh Avenue,1131296444.15
+108,error: undefined method `first' for nil:NilClass,81 Mayer Avenue,3275861520.39
+109,error: undefined method `first' for nil:NilClass,82760 Hansons Alley,8652140663.6
+110,error: undefined method `first' for nil:NilClass,2595 Mitchell Avenue,7443467353.06
+111,error: undefined method `first' for nil:NilClass,65 Jana Point,2740375011.23
+112,error: undefined method `first' for nil:NilClass,8588 Iowa Way,4300818609.06
+113,error: undefined method `first' for nil:NilClass,7040 Mandrake Way,5422594788.05
+114,error: undefined method `first' for nil:NilClass,67 Mockingbird Hill,9174902141.23
+115,error: undefined method `first' for nil:NilClass,1691 Coleman Point,522808780.72
+116,error: undefined method `first' for nil:NilClass,35 Charing Cross Court,8985750796.4
+117,error: undefined method `first' for nil:NilClass,323 Artisan Way,9354781188.15
+118,error: undefined method `first' for nil:NilClass,13746 Forest Dale Pass,2003709196.76
+119,error: undefined method `first' for nil:NilClass,20 Vera Park,4280545398.02
+120,error: undefined method `first' for nil:NilClass,61 Service Court,7404196442.35
+121,error: undefined method `first' for nil:NilClass,28 Superior Hill,3257056101.56
+122,error: undefined method `first' for nil:NilClass,75 Oak Terrace,1958616564.65
+123,error: undefined method `first' for nil:NilClass,6 Riverside Center,1896700071.75
+124,error: undefined method `first' for nil:NilClass,22 Shopko Drive,9700962090.73
+125,error: undefined method `first' for nil:NilClass,54 Trailsway Street,6626704071.03
+126,error: undefined method `first' for nil:NilClass,8 Menomonie Crossing,9223316999.95
+127,error: undefined method `first' for nil:NilClass,8 Fieldstone Drive,678448231.63
+128,error: undefined method `first' for nil:NilClass,5 Red Cloud Road,1656626777.55
+129,error: undefined method `first' for nil:NilClass,363 Basil Avenue,7065553712.28
+130,error: undefined method `first' for nil:NilClass,59 Barnett Avenue,810900345.13
+131,error: undefined method `first' for nil:NilClass,76557 Becker Avenue,4107780987.77
+132,error: undefined method `first' for nil:NilClass,41 Mallard Street,8094862899.93
+133,error: undefined method `first' for nil:NilClass,8 Fremont Crossing,6553787079.82
+134,error: undefined method `first' for nil:NilClass,91 4th Junction,223049011.56
+135,error: undefined method `first' for nil:NilClass,2 Oak Valley Court,9643664666.48
+136,error: undefined method `first' for nil:NilClass,1 Manitowish Drive,6040422137.11
+137,error: undefined method `first' for nil:NilClass,27610 Express Lane,3540449001.23
+138,error: undefined method `first' for nil:NilClass,449 Scoville Hill,6851344284.03
+139,error: undefined method `first' for nil:NilClass,0 Meadow Vale Lane,1707045265.31
+140,error: undefined method `first' for nil:NilClass,088 Mariners Cove Junction,6941799940.73
+141,error: undefined method `first' for nil:NilClass,41932 Pankratz Pass,9127086219.78
+142,error: undefined method `first' for nil:NilClass,9 Hayes Plaza,6388084475.16
+143,error: undefined method `first' for nil:NilClass,3 Almo Pass,6798689639.88
+144,error: undefined method `first' for nil:NilClass,1 Sugar Circle,2240401962.14
+145,error: undefined method `first' for nil:NilClass,65 Gulseth Drive,9629840506.69
+146,error: undefined method `first' for nil:NilClass,58883 Miller Point,5119990066.67
+147,error: undefined method `first' for nil:NilClass,32 Old Gate Parkway,3780778531.08
+148,error: undefined method `first' for nil:NilClass,5 Declaration Lane,976877246.43
+149,error: undefined method `first' for nil:NilClass,68 Melody Plaza,7151420971.06
+150,error: undefined method `first' for nil:NilClass,9 Barby Park,9761671190.24
+151,error: undefined method `first' for nil:NilClass,9 Pankratz Avenue,6477385694.2
+152,error: undefined method `first' for nil:NilClass,850 Arapahoe Point,4248727219.34
+153,error: undefined method `first' for nil:NilClass,84435 Logan Circle,6690100600.68
+154,error: undefined method `first' for nil:NilClass,4 Grover Trail,3385947829.5
+155,error: undefined method `first' for nil:NilClass,3922 Westridge Road,2769929510.79
+156,error: undefined method `first' for nil:NilClass,87096 Dryden Avenue,3903984682.21
+157,error: undefined method `first' for nil:NilClass,21722 Jana Plaza,2903016375.02
+158,error: undefined method `first' for nil:NilClass,901 Bluejay Lane,9001636125.63
+159,error: undefined method `first' for nil:NilClass,5 Gulseth Point,1626230846.55
+160,error: undefined method `first' for nil:NilClass,33306 Green Way,2471383530.02
+161,error: undefined method `first' for nil:NilClass,43 Jana Crossing,7297389356.6
+162,error: undefined method `first' for nil:NilClass,59 David Point,9783441523.83
+163,error: undefined method `first' for nil:NilClass,463 Everett Junction,2749707782.54
+164,error: undefined method `first' for nil:NilClass,73 Sage Street,1082269763.07
+165,error: undefined method `first' for nil:NilClass,7 Anderson Pass,5192709727.54
+166,error: undefined method `first' for nil:NilClass,049 Pepper Wood Court,3288750064.52
+167,error: undefined method `first' for nil:NilClass,539 Parkside Park,6390388686.06
+168,error: undefined method `first' for nil:NilClass,4879 Anthes Alley,6946651262.88
+169,error: undefined method `first' for nil:NilClass,16 Hermina Hill,1680097038.18
+170,error: undefined method `first' for nil:NilClass,2 Steensland Crossing,3565171637.98
+171,error: undefined method `first' for nil:NilClass,7397 Pepper Wood Parkway,7392766664.49
+172,error: undefined method `first' for nil:NilClass,50669 Bayside Road,3986228223.84
+173,error: undefined method `first' for nil:NilClass,89 Blaine Park,1397347125.26
+174,error: undefined method `first' for nil:NilClass,411 Forest Run Junction,3445341596.53
+175,error: undefined method `first' for nil:NilClass,6 Lake View Park,9457169461.8
+176,error: undefined method `first' for nil:NilClass,508 Cody Center,5090266760.88
+177,error: undefined method `first' for nil:NilClass,9 Surrey Junction,7100771451.73
+178,error: undefined method `first' for nil:NilClass,72 Parkside Plaza,9463415595.99
+179,error: undefined method `first' for nil:NilClass,97299 Golden Leaf Lane,3668047827.64
+180,error: undefined method `first' for nil:NilClass,5477 Loomis Pass,612129960.21
+181,error: undefined method `first' for nil:NilClass,8 Redwing Street,94962129.16
+182,error: undefined method `first' for nil:NilClass,7887 Bonner Lane,3478343746.24
+183,error: undefined method `first' for nil:NilClass,1 Clemons Circle,2495384033.68
+184,error: undefined method `first' for nil:NilClass,0226 Hagan Court,6236875147.54
+185,error: undefined method `first' for nil:NilClass,85919 Delladonna Road,5847127381.94
+186,error: undefined method `first' for nil:NilClass,8359 Tennessee Crossing,4355323759.73
+187,error: undefined method `first' for nil:NilClass,00 Stang Circle,8563231265.13
+188,error: undefined method `first' for nil:NilClass,447 Sage Street,2859624109.45
+189,error: undefined method `first' for nil:NilClass,92 Summer Ridge Crossing,3623302905.55
+190,error: undefined method `first' for nil:NilClass,1 High Crossing Place,3995531339.47
+191,error: undefined method `first' for nil:NilClass,18 Crowley Terrace,9903886507.28
+192,error: undefined method `first' for nil:NilClass,541 Little Fleur Street,5301828643.34
+193,error: undefined method `first' for nil:NilClass,4970 Autumn Leaf Alley,3991366551.41
+194,error: undefined method `first' for nil:NilClass,486 Pawling Lane,8397118837.71
+195,error: undefined method `first' for nil:NilClass,76 Monica Avenue,9318953793.62
+196,error: undefined method `first' for nil:NilClass,0669 Mcbride Place,582190424.22
+197,error: undefined method `first' for nil:NilClass,800 Fair Oaks Way,953071243.38
+198,error: undefined method `first' for nil:NilClass,72 Dunning Way,8580322415.24
+199,error: undefined method `first' for nil:NilClass,4317 Canary Point,2277529424.26
+200,error: undefined method `first' for nil:NilClass,95 Dixon Junction,9673350696.52
+201,error: undefined method `first' for nil:NilClass,7283 Muir Plaza,7057665131.63
+202,error: undefined method `first' for nil:NilClass,3281 Maple Park,6580909411.19
+203,error: undefined method `first' for nil:NilClass,92701 Judy Junction,708479528.27
+204,error: undefined method `first' for nil:NilClass,4 Kipling Trail,330438473.94
+205,error: undefined method `first' for nil:NilClass,51053 Talmadge Circle,5765812971.74
+206,error: undefined method `first' for nil:NilClass,209 Service Road,3781147199.31
+207,error: undefined method `first' for nil:NilClass,8617 Thompson Terrace,5746820285.83
+208,error: undefined method `first' for nil:NilClass,07 Rockefeller Lane,4098561802.87
+209,error: undefined method `first' for nil:NilClass,52 Reinke Avenue,6734572710.11
+210,error: undefined method `first' for nil:NilClass,47576 Schlimgen Trail,2340479245.13
+211,error: undefined method `first' for nil:NilClass,504 Village Green Avenue,2770295534.16
+212,error: undefined method `first' for nil:NilClass,85 Dawn Crossing,3411410889.47
+213,error: undefined method `first' for nil:NilClass,27 Canary Hill,8652792940.55
+214,error: undefined method `first' for nil:NilClass,71259 Blue Bill Park Lane,263491650.98
+215,error: undefined method `first' for nil:NilClass,778 Northland Lane,172539156.18
+216,error: undefined method `first' for nil:NilClass,5 Hauk Plaza,8540714858.92
+217,error: undefined method `first' for nil:NilClass,1 Canary Plaza,3542317721.85
+218,error: undefined method `first' for nil:NilClass,9 Northland Avenue,275363089.72
+219,error: undefined method `first' for nil:NilClass,07 Johnson Place,5694271517.29
+220,error: undefined method `first' for nil:NilClass,3919 Loomis Terrace,777694924.47
+221,error: undefined method `first' for nil:NilClass,99 Park Meadow Plaza,5045099065.44
+222,error: undefined method `first' for nil:NilClass,57 Morrow Junction,8886289092.14
+223,error: undefined method `first' for nil:NilClass,15 Southridge Place,6802995388.71
+224,error: undefined method `first' for nil:NilClass,5 Springs Drive,1370485598.93
+225,error: undefined method `first' for nil:NilClass,7602 Dorton Terrace,5914271416.08
+226,error: undefined method `first' for nil:NilClass,0 Fisk Parkway,3718037289.37
+227,error: undefined method `first' for nil:NilClass,45548 Cherokee Court,2643329251.01
+228,error: undefined method `first' for nil:NilClass,6795 Hagan Pass,9213886455.35
+229,error: undefined method `first' for nil:NilClass,7119 Iowa Street,4135805619.92
+230,error: undefined method `first' for nil:NilClass,619 Kropf Center,9958714266.87
+231,error: undefined method `first' for nil:NilClass,06342 Eastwood Terrace,6928276628.72
+232,error: undefined method `first' for nil:NilClass,4449 Forest Dale Circle,634610568.83
+233,error: undefined method `first' for nil:NilClass,18490 Transport Lane,6547121205.9
+234,error: undefined method `first' for nil:NilClass,57 Mesta Crossing,9989936014.18
+235,error: undefined method `first' for nil:NilClass,5723 Mitchell Street,7879445789.62
+236,error: undefined method `first' for nil:NilClass,4842 Bashford Alley,8308620411.19
+237,error: undefined method `first' for nil:NilClass,5392 Vermont Parkway,9859293628.98
+238,error: undefined method `first' for nil:NilClass,0 Corry Hill,492792495.65
+239,error: undefined method `first' for nil:NilClass,2373 Upham Junction,5869189701.63
+240,error: undefined method `first' for nil:NilClass,34 Texas Parkway,3745073620.33
+241,error: undefined method `first' for nil:NilClass,16 Elmside Terrace,8663767645.88
+242,error: undefined method `first' for nil:NilClass,9467 Hauk Terrace,7149718268.94
+243,error: undefined method `first' for nil:NilClass,16 Cherokee Circle,8697032781.08
+244,error: undefined method `first' for nil:NilClass,56 Waubesa Street,8740275623.54
+245,error: undefined method `first' for nil:NilClass,725 Londonderry Lane,2165241291.68
+246,error: undefined method `first' for nil:NilClass,8563 Brickson Park Junction,7244898940.7
+247,error: undefined method `first' for nil:NilClass,0 Lakeland Way,9095906242.83
+248,error: undefined method `first' for nil:NilClass,087 Hintze Pass,3838380095.73
+249,error: undefined method `first' for nil:NilClass,945 Golf View Crossing,2588241128.05
+250,error: undefined method `first' for nil:NilClass,9 Meadow Vale Lane,6183003261.84
+251,error: undefined method `first' for nil:NilClass,02 Bultman Avenue,3796565532.21
+252,error: undefined method `first' for nil:NilClass,0 Roxbury Way,5199798770.01
+253,error: undefined method `first' for nil:NilClass,3913 Toban Parkway,7598795679.32
+254,error: undefined method `first' for nil:NilClass,94 Bluejay Trail,9334824137.61
+255,error: undefined method `first' for nil:NilClass,59 Manley Avenue,6964021397.19
+256,error: undefined method `first' for nil:NilClass,38292 Waywood Junction,305398246.76
+257,error: undefined method `first' for nil:NilClass,00459 Oak Valley Point,306322693.46
+258,error: undefined method `first' for nil:NilClass,3 Dennis Trail,9434908389.15
+259,error: undefined method `first' for nil:NilClass,324 Stang Drive,7180123120.31
+260,error: undefined method `first' for nil:NilClass,2389 Messerschmidt Circle,731389420.24
+261,error: undefined method `first' for nil:NilClass,04201 Steensland Pass,9856858710.72
+262,error: undefined method `first' for nil:NilClass,952 Village Crossing,937631358.07
+263,error: undefined method `first' for nil:NilClass,570 American Place,4308393015.37
+264,error: undefined method `first' for nil:NilClass,3 Drewry Way,2243038426.03
+265,error: undefined method `first' for nil:NilClass,09033 Farragut Terrace,8814879764.66
+266,error: undefined method `first' for nil:NilClass,6274 Holy Cross Terrace,4861785285.85
+267,error: undefined method `first' for nil:NilClass,6 Maywood Court,5586244445.87
+268,error: undefined method `first' for nil:NilClass,72 Towne Drive,5121289179.97
+269,error: undefined method `first' for nil:NilClass,117 Arrowood Circle,4015595776.63
+270,error: undefined method `first' for nil:NilClass,864 3rd Junction,2309842885.58
+271,error: undefined method `first' for nil:NilClass,6 Granby Way,8858781627.75
+272,error: undefined method `first' for nil:NilClass,9 Marquette Way,4327707858.57
+273,error: undefined method `first' for nil:NilClass,43146 Coleman Point,8371076883.91
+274,error: undefined method `first' for nil:NilClass,43671 Alpine Drive,2730976347.15
+275,error: undefined method `first' for nil:NilClass,7390 Fulton Hill,8044249657.37
+276,error: undefined method `first' for nil:NilClass,51033 Briar Crest Pass,9959921082.1
+277,error: undefined method `first' for nil:NilClass,5107 Northland Drive,4428460788.3
+278,error: undefined method `first' for nil:NilClass,6997 Fairfield Junction,514251258.18
+279,error: undefined method `first' for nil:NilClass,7296 Alpine Terrace,3183164781.44
+280,error: undefined method `first' for nil:NilClass,59967 Delaware Way,5035106500.94
+281,error: undefined method `first' for nil:NilClass,1501 Tomscot Center,6168572322.78
+282,error: undefined method `first' for nil:NilClass,727 Stephen Crossing,5059682167.19
+283,error: undefined method `first' for nil:NilClass,75558 Havey Point,3529897495.72
+284,error: undefined method `first' for nil:NilClass,9040 Schurz Hill,6106222970.24
+285,error: undefined method `first' for nil:NilClass,831 Saint Paul Park,9831794835.98
+286,error: undefined method `first' for nil:NilClass,407 Susan Circle,7791553420.84
+287,error: undefined method `first' for nil:NilClass,1676 Porter Road,519832548.99
+288,error: undefined method `first' for nil:NilClass,766 Northland Place,987829023.87
+289,error: undefined method `first' for nil:NilClass,87586 Luster Avenue,2897311074.25
+290,error: undefined method `first' for nil:NilClass,7976 Milwaukee Junction,6556287069.4
+291,error: undefined method `first' for nil:NilClass,2 Brown Trail,9480092230.17
+292,error: undefined method `first' for nil:NilClass,4 Artisan Avenue,1714089861.68
+293,error: undefined method `first' for nil:NilClass,57 Fremont Lane,9543997264.51
+294,error: undefined method `first' for nil:NilClass,866 Emmet Pass,498635441.17
+295,error: undefined method `first' for nil:NilClass,20282 Straubel Way,1553058529.39
+296,error: undefined method `first' for nil:NilClass,346 Brickson Park Street,6759031790.99
+297,error: undefined method `first' for nil:NilClass,435 Becker Trail,8627700645.46
+298,error: undefined method `first' for nil:NilClass,68 Carberry Avenue,7234328696.78
+299,error: undefined method `first' for nil:NilClass,4163 Charing Cross Street,3511255285.3
+300,error: undefined method `first' for nil:NilClass,59 3rd Park,4847654575.39
+301,error: undefined method `first' for nil:NilClass,15 Sauthoff Alley,2230151214.33
+302,error: undefined method `first' for nil:NilClass,4 Glendale Street,9639658205.89
+303,error: undefined method `first' for nil:NilClass,77527 Hallows Crossing,976643761.55
+304,error: undefined method `first' for nil:NilClass,983 Fordem Plaza,3968348527.0
+305,error: undefined method `first' for nil:NilClass,72 Commercial Parkway,7727015527.1
+306,error: undefined method `first' for nil:NilClass,312 Ridgeview Crossing,5902485989.13
+307,error: undefined method `first' for nil:NilClass,9551 Columbus Crossing,7290003796.76
+308,error: undefined method `first' for nil:NilClass,957 Briar Crest Court,9106036751.53
+309,error: undefined method `first' for nil:NilClass,31 Sugar Court,225949156.66
+310,error: undefined method `first' for nil:NilClass,5870 Dottie Junction,6095341290.99
+311,error: undefined method `first' for nil:NilClass,00271 Lerdahl Terrace,3763819788.49
+312,error: undefined method `first' for nil:NilClass,6833 Dahle Court,5034113599.52
+313,error: undefined method `first' for nil:NilClass,8 Fisk Plaza,4345073550.66
+314,error: undefined method `first' for nil:NilClass,67 Dakota Terrace,7159494233.98
+315,error: undefined method `first' for nil:NilClass,2077 Utah Junction,8410849663.74
+316,error: undefined method `first' for nil:NilClass,3 Clemons Parkway,4437208165.11
+317,error: undefined method `first' for nil:NilClass,54 Butternut Terrace,6757857635.71
+318,error: undefined method `first' for nil:NilClass,59 Knutson Junction,1773473872.21
+319,error: undefined method `first' for nil:NilClass,3 Pond Trail,5694948772.22
+320,error: undefined method `first' for nil:NilClass,896 Pawling Place,4774425927.2
+321,error: undefined method `first' for nil:NilClass,44432 Melvin Plaza,9388118101.19
+322,error: undefined method `first' for nil:NilClass,3658 Badeau Crossing,9714756449.45
+323,error: undefined method `first' for nil:NilClass,21 Badeau Plaza,2844701945.01
+324,error: undefined method `first' for nil:NilClass,6538 Gina Alley,3105271462.71
+325,error: undefined method `first' for nil:NilClass,17136 New Castle Crossing,9058203649.79
+326,error: undefined method `first' for nil:NilClass,40 Grover Way,5215365295.11
+327,error: undefined method `first' for nil:NilClass,309 Warbler Court,8206681793.64
+328,error: undefined method `first' for nil:NilClass,586 Sugar Park,1497770983.26
+329,error: undefined method `first' for nil:NilClass,09404 Leroy Way,9233495704.41
+330,error: undefined method `first' for nil:NilClass,9154 Scofield Point,7492292241.86
+331,error: undefined method `first' for nil:NilClass,164 Ramsey Point,1159425523.47
+332,error: undefined method `first' for nil:NilClass,687 Sycamore Alley,7154428049.36
+333,error: undefined method `first' for nil:NilClass,8127 Bashford Way,4652414084.29
+334,error: undefined method `first' for nil:NilClass,96 Golf View Circle,272646668.4
+335,error: undefined method `first' for nil:NilClass,52 Westerfield Alley,8007664600.97
+336,error: undefined method `first' for nil:NilClass,68099 Gina Lane,124047024.97
+337,error: undefined method `first' for nil:NilClass,49 Hintze Junction,1783496046.51
+338,error: undefined method `first' for nil:NilClass,3 Hauk Park,2519764246.28
+339,error: undefined method `first' for nil:NilClass,94058 Almo Street,7299538381.59
+340,error: undefined method `first' for nil:NilClass,2111 La Follette Lane,6265429809.16
+341,error: undefined method `first' for nil:NilClass,65 Stephen Point,9517830707.84
+342,error: undefined method `first' for nil:NilClass,91891 Forest Run Street,4328781030.94
+343,error: undefined method `first' for nil:NilClass,69055 Sheridan Parkway,6862517506.78
+344,error: undefined method `first' for nil:NilClass,268 Prairie Rose Parkway,9790393339.82
+345,error: undefined method `first' for nil:NilClass,533 Rigney Junction,1965091241.63
+346,error: undefined method `first' for nil:NilClass,899 Dapin Hill,352209358.27
+347,error: undefined method `first' for nil:NilClass,7 Swallow Lane,3402709902.26
+348,error: undefined method `first' for nil:NilClass,44 Northport Point,6161994800.69
+349,error: undefined method `first' for nil:NilClass,93 Holmberg Parkway,1997137424.01
+350,error: undefined method `first' for nil:NilClass,68 Rutledge Plaza,1324267406.09
+351,error: undefined method `first' for nil:NilClass,69395 Pawling Center,8145138387.31
+352,error: undefined method `first' for nil:NilClass,27786 Prairie Rose Drive,6147570716.61
+353,error: undefined method `first' for nil:NilClass,09 Golden Leaf Hill,9499342646.27
+354,error: undefined method `first' for nil:NilClass,79536 Laurel Park,3472537641.92
+355,error: undefined method `first' for nil:NilClass,72475 Manley Terrace,226751819.65
+356,error: undefined method `first' for nil:NilClass,1 Havey Circle,9563912604.81
+357,error: undefined method `first' for nil:NilClass,9 Nobel Pass,6854263760.68
+358,error: undefined method `first' for nil:NilClass,585 Mendota Drive,2063212057.3
+359,error: undefined method `first' for nil:NilClass,76514 Spenser Junction,7399793308.77
+360,error: undefined method `first' for nil:NilClass,788 Kipling Avenue,504570040.99
+361,error: undefined method `first' for nil:NilClass,86 Elmside Hill,4708888060.62
+362,error: undefined method `first' for nil:NilClass,47738 Novick Alley,4619460631.1
+363,error: undefined method `first' for nil:NilClass,86 Drewry Drive,4839851206.93
+364,error: undefined method `first' for nil:NilClass,4401 La Follette Crossing,9452535939.52
+365,error: undefined method `first' for nil:NilClass,4811 Farwell Court,4975067324.0
+366,error: undefined method `first' for nil:NilClass,10707 International Street,151694311.92
+367,error: undefined method `first' for nil:NilClass,18 Corry Street,1486974494.52
+368,error: undefined method `first' for nil:NilClass,5 1st Terrace,355598384.35
+369,error: undefined method `first' for nil:NilClass,22 Waubesa Park,1796633749.45
+370,error: undefined method `first' for nil:NilClass,069 Dorton Park,7179676826.28
+371,error: undefined method `first' for nil:NilClass,80 Norway Maple Parkway,3650038829.55
+372,error: undefined method `first' for nil:NilClass,936 Crescent Oaks Court,1032534213.65
+373,error: undefined method `first' for nil:NilClass,12 Tony Point,6421086529.56
+374,error: undefined method `first' for nil:NilClass,7 Blackbird Lane,5816525838.32
+375,error: undefined method `first' for nil:NilClass,4 Anzinger Drive,183818046.43
+376,error: undefined method `first' for nil:NilClass,8 Westerfield Center,5921167613.65
+377,error: undefined method `first' for nil:NilClass,551 Moland Point,6888959901.03
+378,error: undefined method `first' for nil:NilClass,1 Annamark Alley,2674550915.77
+379,error: undefined method `first' for nil:NilClass,5807 Killdeer Road,7644224885.76
+380,error: undefined method `first' for nil:NilClass,36 Victoria Drive,1436316392.48
+381,error: undefined method `first' for nil:NilClass,29105 Fairfield Road,3073625204.41
+382,error: undefined method `first' for nil:NilClass,0693 Crest Line Road,374145233.52
+383,error: undefined method `first' for nil:NilClass,39147 Holmberg Center,6699216780.8
+384,error: undefined method `first' for nil:NilClass,20428 Sutherland Alley,1178662279.42
+385,error: undefined method `first' for nil:NilClass,02817 Burning Wood Point,3536225187.4
+386,error: undefined method `first' for nil:NilClass,46 Upham Junction,6561426308.3
+387,error: undefined method `first' for nil:NilClass,754 Northwestern Center,5997411846.68
+388,error: undefined method `first' for nil:NilClass,281 Washington Alley,3359895509.21
+389,error: undefined method `first' for nil:NilClass,31 Fairfield Drive,1501188868.18
+390,error: undefined method `first' for nil:NilClass,2152 Heffernan Park,9113423522.02
+391,error: undefined method `first' for nil:NilClass,8141 Doe Crossing Point,3228321270.16
+392,error: undefined method `first' for nil:NilClass,06 Kim Crossing,8245647834.89
+393,error: undefined method `first' for nil:NilClass,1 Florence Plaza,3643788859.34
+394,error: undefined method `first' for nil:NilClass,3 Talisman Pass,8455681494.68
+395,error: undefined method `first' for nil:NilClass,82 Fisk Avenue,2262876559.27
+396,error: undefined method `first' for nil:NilClass,7035 Dahle Alley,893998126.5
+397,error: undefined method `first' for nil:NilClass,7620 Summit Pass,6015162821.93
+398,error: undefined method `first' for nil:NilClass,25012 Brickson Park Plaza,7589786542.1
+399,error: undefined method `first' for nil:NilClass,46 Warner Terrace,1586290731.4
+400,error: undefined method `first' for nil:NilClass,88 Summer Ridge Plaza,3421222988.26
+401,error: undefined method `first' for nil:NilClass,2 Meadow Ridge Trail,2834529342.49
+402,error: undefined method `first' for nil:NilClass,3932 Burning Wood Avenue,769747005.38
+403,error: undefined method `first' for nil:NilClass,1215 Lawn Point,2268597673.37
+404,error: undefined method `first' for nil:NilClass,03 Truax Road,1163612378.55
+405,error: undefined method `first' for nil:NilClass,1492 Melby Alley,4271585879.34
+406,error: undefined method `first' for nil:NilClass,2414 Hudson Pass,3068301789.23
+407,error: undefined method `first' for nil:NilClass,0012 Towne Road,7272813419.0
+408,error: undefined method `first' for nil:NilClass,08 Bartillon Street,9039851723.62
+409,error: undefined method `first' for nil:NilClass,69 Maple Circle,9381255621.31
+410,error: undefined method `first' for nil:NilClass,9 Riverside Road,7777030900.33
+411,error: undefined method `first' for nil:NilClass,1 Merchant Hill,7991210837.8
+412,error: undefined method `first' for nil:NilClass,5366 5th Street,3256819691.67
+413,error: undefined method `first' for nil:NilClass,6 Saint Paul Lane,6443910611.53
+414,error: undefined method `first' for nil:NilClass,448 Holmberg Avenue,1466779575.59
+415,error: undefined method `first' for nil:NilClass,96 Ludington Crossing,8338327082.83
+416,error: undefined method `first' for nil:NilClass,6 Hauk Drive,441314410.33
+417,error: undefined method `first' for nil:NilClass,46 Chinook Terrace,3152917138.1
+418,error: undefined method `first' for nil:NilClass,96 Knutson Road,1251738193.8
+419,error: undefined method `first' for nil:NilClass,26 Maywood Terrace,4586210413.26
+420,error: undefined method `first' for nil:NilClass,630 Forster Hill,3826070935.05
+421,error: undefined method `first' for nil:NilClass,80 Derek Park,4549848231.69
+422,error: undefined method `first' for nil:NilClass,4 Kedzie Parkway,9856719866.84
+423,error: undefined method `first' for nil:NilClass,3975 Huxley Park,7250374698.18
+424,error: undefined method `first' for nil:NilClass,59 Fairview Trail,661379401.73
+425,error: undefined method `first' for nil:NilClass,29370 East Center,1640691142.52
+426,error: undefined method `first' for nil:NilClass,543 Hintze Way,4956219574.14
+427,error: undefined method `first' for nil:NilClass,49 Valley Edge Plaza,6151978983.43
+428,error: undefined method `first' for nil:NilClass,8866 Cherokee Point,5110004066.24
+429,error: undefined method `first' for nil:NilClass,25543 Bashford Avenue,2094716802.81
+430,error: undefined method `first' for nil:NilClass,055 Nancy Center,16581676.32
+431,error: undefined method `first' for nil:NilClass,298 Florence Drive,2400217063.16
+432,error: undefined method `first' for nil:NilClass,8249 Vahlen Alley,396725473.61
+433,error: undefined method `first' for nil:NilClass,8 Logan Way,7958004584.18
+434,error: undefined method `first' for nil:NilClass,286 Scofield Way,9273536459.11
+435,error: undefined method `first' for nil:NilClass,0753 Loftsgordon Circle,5276828428.79
+436,error: undefined method `first' for nil:NilClass,29287 Jana Pass,2351534674.33
+437,error: undefined method `first' for nil:NilClass,1346 Carberry Place,864601944.55
+438,error: undefined method `first' for nil:NilClass,082 Melvin Hill,799696307.04
+439,error: undefined method `first' for nil:NilClass,21471 Fallview Point,6540879265.27
+440,error: undefined method `first' for nil:NilClass,7015 Elka Circle,253947235.38
+441,error: undefined method `first' for nil:NilClass,6 Carberry Pass,2747524681.75
+442,error: undefined method `first' for nil:NilClass,891 Roxbury Lane,1006923251.0
+443,error: undefined method `first' for nil:NilClass,7 Schmedeman Terrace,7263728971.77
+444,error: undefined method `first' for nil:NilClass,119 Dahle Street,1599962443.75
+445,error: undefined method `first' for nil:NilClass,0688 Dawn Junction,8545318929.1
+446,error: undefined method `first' for nil:NilClass,18 Oxford Parkway,6864779771.32
+447,error: undefined method `first' for nil:NilClass,4420 Rigney Junction,1983834898.85
+448,error: undefined method `first' for nil:NilClass,989 Arizona Place,5870670066.57
+449,error: undefined method `first' for nil:NilClass,10 Cardinal Trail,7862609722.04
+450,error: undefined method `first' for nil:NilClass,0 Marquette Way,1915728908.88
+451,error: undefined method `first' for nil:NilClass,512 Birchwood Alley,951833143.02
+452,error: undefined method `first' for nil:NilClass,4 Blue Bill Park Way,1694932915.43
+453,error: undefined method `first' for nil:NilClass,9865 Gerald Crossing,737541450.64
+454,error: undefined method `first' for nil:NilClass,370 Nelson Road,7441405497.99
+455,error: undefined method `first' for nil:NilClass,31 Autumn Leaf Way,1702142282.89
+456,error: undefined method `first' for nil:NilClass,5529 Manufacturers Avenue,7910030967.01
+457,error: undefined method `first' for nil:NilClass,098 Acker Place,8790385587.3
+458,error: undefined method `first' for nil:NilClass,83255 Helena Avenue,4012513815.94
+459,error: undefined method `first' for nil:NilClass,65 Havey Terrace,5786449331.97
+460,error: undefined method `first' for nil:NilClass,36808 Namekagon Parkway,5591546038.51
+461,error: undefined method `first' for nil:NilClass,0 Ridgeway Alley,5873131814.08
+462,error: undefined method `first' for nil:NilClass,8 Valley Edge Way,3828560264.92
+463,error: undefined method `first' for nil:NilClass,162 Farmco Terrace,9142080984.06
+464,error: undefined method `first' for nil:NilClass,30 Bunker Hill Court,2065309993.71
+465,error: undefined method `first' for nil:NilClass,8816 Lukken Point,9856330826.56
+466,error: undefined method `first' for nil:NilClass,8251 Karstens Court,9129485728.85
+467,error: undefined method `first' for nil:NilClass,94972 Dunning Point,6147622100.26
+468,error: undefined method `first' for nil:NilClass,23 Bowman Road,4617810509.13
+469,error: undefined method `first' for nil:NilClass,96380 Sage Center,4893452995.62
+470,error: undefined method `first' for nil:NilClass,3 Hauk Center,2177608694.0
+471,error: undefined method `first' for nil:NilClass,9 Esker Point,2937917919.15
+472,error: undefined method `first' for nil:NilClass,272 Talisman Park,7404542378.25
+473,error: undefined method `first' for nil:NilClass,727 Montana Hill,8559115785.84
+474,error: undefined method `first' for nil:NilClass,1 Talisman Avenue,8603572336.51
+475,error: undefined method `first' for nil:NilClass,69248 Bobwhite Pass,7504360916.55
+476,error: undefined method `first' for nil:NilClass,1 Haas Avenue,8845391294.14
+477,error: undefined method `first' for nil:NilClass,56400 Gale Terrace,3434076502.73
+478,error: undefined method `first' for nil:NilClass,212 Garrison Parkway,9826022238.33
+479,error: undefined method `first' for nil:NilClass,463 Londonderry Trail,5343389617.15
+480,error: undefined method `first' for nil:NilClass,12 Butternut Park,371212818.19
+481,error: undefined method `first' for nil:NilClass,3916 Stephen Plaza,770545675.48
+482,error: undefined method `first' for nil:NilClass,8 Pawling Point,1529880212.41
+483,error: undefined method `first' for nil:NilClass,7 Heffernan Plaza,3814652479.42
+484,error: undefined method `first' for nil:NilClass,3576 Artisan Pass,3634609373.01
+485,error: undefined method `first' for nil:NilClass,840 Victoria Junction,4568931765.77
+486,error: undefined method `first' for nil:NilClass,31630 Debra Hill,1751041762.83
+487,error: undefined method `first' for nil:NilClass,2946 Sullivan Point,9326430357.04
+488,error: undefined method `first' for nil:NilClass,58 Anthes Road,1693824581.85
+489,error: undefined method `first' for nil:NilClass,11 Monument Park,6337052761.66
+490,error: undefined method `first' for nil:NilClass,7109 Anhalt Way,884835805.08
+491,error: undefined method `first' for nil:NilClass,44079 Lien Plaza,3212784053.9
+492,error: undefined method `first' for nil:NilClass,85 Ramsey Pass,9733237985.23
+493,error: undefined method `first' for nil:NilClass,421 Summer Ridge Park,4020586870.29
+494,error: undefined method `first' for nil:NilClass,92 Homewood Place,5466724378.89
+495,error: undefined method `first' for nil:NilClass,8 Erie Avenue,5031477088.39
+496,error: undefined method `first' for nil:NilClass,1 Cardinal Lane,2847949167.2
+497,error: undefined method `first' for nil:NilClass,175 Ryan Avenue,222860749.02
+498,error: undefined method `first' for nil:NilClass,81 Green Court,1477318411.7
+499,error: undefined method `first' for nil:NilClass,7149 Eggendart Parkway,4518189526.11
+500,error: undefined method `first' for nil:NilClass,9 Maywood Trail,6200726843.83
+501,error: undefined method `first' for nil:NilClass,88 Golden Leaf Hill,5212337822.02
+502,error: undefined method `first' for nil:NilClass,3838 Springs Point,6031852098.59
+503,error: undefined method `first' for nil:NilClass,2466 Autumn Leaf Point,5362814325.11
+504,error: undefined method `first' for nil:NilClass,483 Donald Alley,8683613806.2
+505,error: undefined method `first' for nil:NilClass,19479 Kennedy Lane,4912518562.78
+506,error: undefined method `first' for nil:NilClass,98603 Meadow Ridge Court,6652781308.56
+507,error: undefined method `first' for nil:NilClass,665 Trailsway Park,5981476631.62
+508,error: undefined method `first' for nil:NilClass,3 Briar Crest Court,7564386299.4
+509,error: undefined method `first' for nil:NilClass,26 Dayton Lane,1296342106.33
+510,error: undefined method `first' for nil:NilClass,2 Scott Way,2513857906.8
+511,error: undefined method `first' for nil:NilClass,384 Onsgard Drive,8464852516.39
+512,error: undefined method `first' for nil:NilClass,99680 Prentice Park,9362166761.31
+513,error: undefined method `first' for nil:NilClass,99293 Forest Run Lane,447882520.17
+514,error: undefined method `first' for nil:NilClass,84161 Donald Terrace,7615432796.05
+515,error: undefined method `first' for nil:NilClass,02 Mallard Drive,3610978156.12
+516,error: undefined method `first' for nil:NilClass,70924 Prairie Rose Place,7445681021.96
+517,error: undefined method `first' for nil:NilClass,24260 Sugar Drive,1216162058.81
+518,error: undefined method `first' for nil:NilClass,82780 Meadow Ridge Circle,657047474.43
+519,error: undefined method `first' for nil:NilClass,0 Golf View Place,4328875272.09
+520,error: undefined method `first' for nil:NilClass,845 Sauthoff Circle,3701014845.31
+521,error: undefined method `first' for nil:NilClass,5147 Donald Avenue,7953926423.49
+522,error: undefined method `first' for nil:NilClass,5 Milwaukee Circle,7538734996.16
+523,error: undefined method `first' for nil:NilClass,2784 Towne Lane,4979083341.19
+524,error: undefined method `first' for nil:NilClass,04060 Loomis Park,141964620.67
+525,error: undefined method `first' for nil:NilClass,1802 Marcy Court,111979064.18
+526,error: undefined method `first' for nil:NilClass,2 Talmadge Road,8122723799.53
+527,error: undefined method `first' for nil:NilClass,6 7th Point,9783768286.35
+528,error: undefined method `first' for nil:NilClass,1 Stephen Court,3405003955.23
+529,error: undefined method `first' for nil:NilClass,15 Heath Park,638957856.87
+530,error: undefined method `first' for nil:NilClass,7569 Forest Dale Hill,243719375.12
+531,error: undefined method `first' for nil:NilClass,4851 Donald Center,179604012.48
+532,error: undefined method `first' for nil:NilClass,3203 Del Sol Pass,6532763957.03
+533,error: undefined method `first' for nil:NilClass,20 Butternut Way,2471759050.05
+534,error: undefined method `first' for nil:NilClass,656 Morrow Street,3843889688.64
+535,error: undefined method `first' for nil:NilClass,70091 Eggendart Avenue,3310120212.09
+536,error: undefined method `first' for nil:NilClass,0828 Sage Alley,6286992090.94
+537,error: undefined method `first' for nil:NilClass,790 Kenwood Drive,9544703994.95
+538,error: undefined method `first' for nil:NilClass,96804 3rd Street,4599649324.08
+539,error: undefined method `first' for nil:NilClass,73 Chive Trail,527713848.48
+540,error: undefined method `first' for nil:NilClass,8135 Sage Lane,3246223564.9
+541,error: undefined method `first' for nil:NilClass,32435 Commercial Plaza,9646966238.13
+542,error: undefined method `first' for nil:NilClass,701 Boyd Circle,3179708103.74
+543,error: undefined method `first' for nil:NilClass,88685 Truax Lane,9595697310.58
+544,error: undefined method `first' for nil:NilClass,8 Warrior Center,2053085698.81
+545,error: undefined method `first' for nil:NilClass,752 Starling Plaza,1028943848.61
+546,error: undefined method `first' for nil:NilClass,2386 Hanover Crossing,4213193187.2
+547,error: undefined method `first' for nil:NilClass,00990 Oxford Road,3608721477.8
+548,error: undefined method `first' for nil:NilClass,08412 Pond Point,451790605.77
+549,error: undefined method `first' for nil:NilClass,9243 Lunder Street,4059166732.25
+550,error: undefined method `first' for nil:NilClass,0044 Meadow Valley Crossing,2968066692.0
+551,error: undefined method `first' for nil:NilClass,78527 Pawling Street,2737220755.28
+552,error: undefined method `first' for nil:NilClass,2 Fisk Pass,3875952297.69
+553,error: undefined method `first' for nil:NilClass,28939 Sloan Way,8584785530.72
+554,error: undefined method `first' for nil:NilClass,09 Village Junction,172096529.06
+555,error: undefined method `first' for nil:NilClass,947 Everett Point,7014951458.28
+556,error: undefined method `first' for nil:NilClass,395 Hudson Trail,9767657572.59
+557,error: undefined method `first' for nil:NilClass,27 Calypso Pass,6919473836.42
+558,error: undefined method `first' for nil:NilClass,71218 Drewry Crossing,3590950678.91
+559,error: undefined method `first' for nil:NilClass,093 Reindahl Pass,8869252948.77
+560,error: undefined method `first' for nil:NilClass,33 Kipling Pass,4564464145.37
+561,error: undefined method `first' for nil:NilClass,98 Stephen Street,6168962809.11
+562,error: undefined method `first' for nil:NilClass,76739 Mesta Pass,955146479.21
+563,error: undefined method `first' for nil:NilClass,2900 Oak Terrace,2678922863.77
+564,error: undefined method `first' for nil:NilClass,7 Dayton Hill,4348985939.98
+565,error: undefined method `first' for nil:NilClass,6977 Hallows Drive,787330627.93
+566,error: undefined method `first' for nil:NilClass,6343 Homewood Circle,1635926533.99
+567,error: undefined method `first' for nil:NilClass,3 Larry Court,5473777651.26
+568,error: undefined method `first' for nil:NilClass,6 Clove Park,2341209002.79
+569,error: undefined method `first' for nil:NilClass,56722 Huxley Park,3776625159.69
+570,error: undefined method `first' for nil:NilClass,778 Dapin Way,6122515453.12
+571,error: undefined method `first' for nil:NilClass,2963 Lunder Place,9842916097.92
+572,error: undefined method `first' for nil:NilClass,3132 Nevada Hill,7279412253.67
+573,error: undefined method `first' for nil:NilClass,0 Lillian Trail,6631039723.46
+574,error: undefined method `first' for nil:NilClass,86 Bunting Junction,9798823813.11
+575,error: undefined method `first' for nil:NilClass,8069 Eggendart Street,6734869422.6
+576,error: undefined method `first' for nil:NilClass,060 Maple Avenue,5075164126.88
+577,error: undefined method `first' for nil:NilClass,0 Dakota Avenue,1311085228.46
+578,error: undefined method `first' for nil:NilClass,4 Thackeray Parkway,458083161.44
+579,error: undefined method `first' for nil:NilClass,7764 Roth Drive,1255024379.77
+580,error: undefined method `first' for nil:NilClass,9030 Truax Park,4954444949.95
+581,error: undefined method `first' for nil:NilClass,4 Algoma Pass,8525052951.55
+582,error: undefined method `first' for nil:NilClass,75484 Elmside Crossing,2545460098.8
+583,error: undefined method `first' for nil:NilClass,699 Gateway Pass,5333501290.5
+584,error: undefined method `first' for nil:NilClass,91 Banding Way,8406126001.08
+585,error: undefined method `first' for nil:NilClass,27 Parkside Terrace,9358956393.32
+586,error: undefined method `first' for nil:NilClass,97245 Nelson Way,4701498211.29
+587,error: undefined method `first' for nil:NilClass,9836 Helena Park,1364099156.64
+588,error: undefined method `first' for nil:NilClass,2195 Lighthouse Bay Way,820978149.88
+589,error: undefined method `first' for nil:NilClass,2548 Cordelia Court,900810436.7
+590,error: undefined method `first' for nil:NilClass,6 Graceland Avenue,4797032991.8
+591,error: undefined method `first' for nil:NilClass,09 Arizona Trail,2964006811.11
+592,error: undefined method `first' for nil:NilClass,778 Merrick Hill,6007985810.87
+593,error: undefined method `first' for nil:NilClass,18995 Hoffman Way,2152212442.05
+594,error: undefined method `first' for nil:NilClass,49 Kinsman Circle,1006223655.51
+595,error: undefined method `first' for nil:NilClass,6873 Almo Place,2082941381.76
+596,error: undefined method `first' for nil:NilClass,7075 Pepper Wood Parkway,3729267563.45
+597,error: undefined method `first' for nil:NilClass,2 Boyd Place,3466420957.56
+598,error: undefined method `first' for nil:NilClass,1974 Jenna Park,3772611234.21
+599,error: undefined method `first' for nil:NilClass,9211 Badeau Trail,4455456493.81
+600,error: undefined method `first' for nil:NilClass,5593 Killdeer Pass,178299058.55
+601,error: undefined method `first' for nil:NilClass,28 Kipling Pass,6424542669.17
+602,error: undefined method `first' for nil:NilClass,34 Eastwood Point,6530190337.27
+603,error: undefined method `first' for nil:NilClass,507 Jackson Junction,5893522198.78
+604,error: undefined method `first' for nil:NilClass,1728 Havey Avenue,3199975405.39
+605,error: undefined method `first' for nil:NilClass,7398 Ryan Crossing,64396184.09
+606,error: undefined method `first' for nil:NilClass,5724 Florence Pass,5933986648.59
+607,error: undefined method `first' for nil:NilClass,9 Butternut Crossing,4065750493.36
+608,error: undefined method `first' for nil:NilClass,2 Karstens Drive,3447525381.75
+609,error: undefined method `first' for nil:NilClass,79879 Hallows Street,853940141.15
+610,error: undefined method `first' for nil:NilClass,8 Crescent Oaks Point,1716997582.43
+611,error: undefined method `first' for nil:NilClass,74923 Carey Way,7579926618.47
+612,error: undefined method `first' for nil:NilClass,1184 Merchant Circle,7719193168.09
+613,error: undefined method `first' for nil:NilClass,4 Lien Crossing,741004057.71
+614,error: undefined method `first' for nil:NilClass,1 4th Lane,893555493.09
+615,error: undefined method `first' for nil:NilClass,8161 Redwing Trail,7080129298.52
+616,error: undefined method `first' for nil:NilClass,15197 Hanover Lane,8529842777.3
+617,error: undefined method `first' for nil:NilClass,976 Iowa Junction,2936085621.83
+618,error: undefined method `first' for nil:NilClass,249 Derek Place,4214756418.63
+619,error: undefined method `first' for nil:NilClass,0112 West Avenue,1813504067.12
+620,error: undefined method `first' for nil:NilClass,4 Westerfield Road,2911376886.11
+621,error: undefined method `first' for nil:NilClass,3 Texas Park,9179558594.69
+622,error: undefined method `first' for nil:NilClass,15364 Anniversary Drive,3158602241.47
+623,error: undefined method `first' for nil:NilClass,853 International Lane,3496993952.54
+624,error: undefined method `first' for nil:NilClass,1608 Katie Street,3015475655.22
+625,error: undefined method `first' for nil:NilClass,7 Vera Road,7873231707.95
+626,error: undefined method `first' for nil:NilClass,1 Florence Drive,2006026003.08
+627,error: undefined method `first' for nil:NilClass,69036 Stang Place,4549160604.03
+628,error: undefined method `first' for nil:NilClass,9 Northland Alley,547151743.81
+629,error: undefined method `first' for nil:NilClass,75561 Magdeline Alley,3045464413.56
+630,error: undefined method `first' for nil:NilClass,424 Meadow Vale Road,7734008904.18
+631,error: undefined method `first' for nil:NilClass,3 Onsgard Crossing,739631383.28
+632,error: undefined method `first' for nil:NilClass,7703 Golf Course Court,3861701057.94
+633,error: undefined method `first' for nil:NilClass,938 Ridgeview Parkway,9197103544.65
+634,error: undefined method `first' for nil:NilClass,1306 Maple Circle,6030350318.02
+635,error: undefined method `first' for nil:NilClass,48668 Hansons Parkway,7131957967.28
+636,error: undefined method `first' for nil:NilClass,05255 Anthes Park,5021192120.52
+637,error: undefined method `first' for nil:NilClass,28 Grayhawk Way,775296716.99
+638,error: undefined method `first' for nil:NilClass,963 Autumn Leaf Point,7770504496.14
+639,error: undefined method `first' for nil:NilClass,6517 Green Terrace,1498390485.41
+640,error: undefined method `first' for nil:NilClass,397 Welch Pass,4948040278.15
+641,error: undefined method `first' for nil:NilClass,3011 Redwing Terrace,711549165.53
+642,error: undefined method `first' for nil:NilClass,9034 Westridge Junction,6215568892.38
+643,error: undefined method `first' for nil:NilClass,92801 Division Terrace,263978233.7
+644,error: undefined method `first' for nil:NilClass,0 Mcbride Lane,9195614929.24
+645,error: undefined method `first' for nil:NilClass,74 Westridge Street,3780340036.79
+646,error: undefined method `first' for nil:NilClass,197 Montana Avenue,2261869314.52
+647,error: undefined method `first' for nil:NilClass,2736 Merry Point,2560274050.82
+648,error: undefined method `first' for nil:NilClass,6 Sunbrook Crossing,999212165.43
+649,error: undefined method `first' for nil:NilClass,149 7th Court,7063813430.8
+650,error: undefined method `first' for nil:NilClass,1457 Coolidge Court,4798337176.31
+651,error: undefined method `first' for nil:NilClass,84222 Fordem Center,2834637137.9
+652,error: undefined method `first' for nil:NilClass,4 Lerdahl Terrace,817852070.8
+653,error: undefined method `first' for nil:NilClass,2 Blaine Court,6393379612.23
+654,error: undefined method `first' for nil:NilClass,0 Lighthouse Bay Plaza,8644448268.46
+655,error: undefined method `first' for nil:NilClass,72650 8th Court,2571379543.94
+656,error: undefined method `first' for nil:NilClass,14 Park Meadow Park,214307917.98
+657,error: undefined method `first' for nil:NilClass,4 Blue Bill Park Park,3776874940.51
+658,error: undefined method `first' for nil:NilClass,1 Bluejay Circle,3676436049.1
+659,error: undefined method `first' for nil:NilClass,586 Lakewood Lane,8336163498.31
+660,error: undefined method `first' for nil:NilClass,25 Florence Center,133583455.3
+661,error: undefined method `first' for nil:NilClass,26376 Ronald Regan Drive,7701527277.07
+662,error: undefined method `first' for nil:NilClass,20978 Summerview Court,4215242718.0
+663,error: undefined method `first' for nil:NilClass,5092 Schurz Park,5968047334.5
+664,error: undefined method `first' for nil:NilClass,20 Coleman Pass,3617719011.76
+665,error: undefined method `first' for nil:NilClass,41210 2nd Lane,8341697862.06
+666,error: undefined method `first' for nil:NilClass,4 Anthes Circle,2996960058.67
+667,error: undefined method `first' for nil:NilClass,82279 Vidon Lane,8095179029.29
+668,error: undefined method `first' for nil:NilClass,608 Atwood Crossing,2866605105.93
+669,error: undefined method `first' for nil:NilClass,19084 Acker Drive,4430899664.9
+670,error: undefined method `first' for nil:NilClass,96 Hanson Place,5997374242.81
+671,error: undefined method `first' for nil:NilClass,40 Lillian Road,6406745315.12
+672,error: undefined method `first' for nil:NilClass,38805 Redwing Circle,9146372643.12
+673,error: undefined method `first' for nil:NilClass,77 Fremont Way,6647478938.77
+674,error: undefined method `first' for nil:NilClass,66 Buhler Point,1437015943.19
+675,error: undefined method `first' for nil:NilClass,82 Sloan Court,3246646089.3
+676,error: undefined method `first' for nil:NilClass,4446 5th Point,1152357036.3
+677,error: undefined method `first' for nil:NilClass,40 Village Green Hill,8709142656.01
+678,error: undefined method `first' for nil:NilClass,34316 Loeprich Plaza,7055938756.65
+679,error: undefined method `first' for nil:NilClass,4 Burrows Place,3073410932.93
+680,error: undefined method `first' for nil:NilClass,00399 Spenser Parkway,3108938721.07
+681,error: undefined method `first' for nil:NilClass,4400 Northview Center,4887080842.47
+682,error: undefined method `first' for nil:NilClass,73473 Lien Trail,328559619.58
+683,error: undefined method `first' for nil:NilClass,8976 Pankratz Junction,7005516145.55
+684,error: undefined method `first' for nil:NilClass,04576 Loeprich Pass,4467024901.71
+685,error: undefined method `first' for nil:NilClass,130 Sundown Lane,2707942447.86
+686,error: undefined method `first' for nil:NilClass,46716 Springview Court,9297863672.73
+687,error: undefined method `first' for nil:NilClass,9 Farmco Alley,4818294630.93
+688,error: undefined method `first' for nil:NilClass,7 Birchwood Plaza,9571355809.26
+689,error: undefined method `first' for nil:NilClass,3 Melody Circle,8344357008.14
+690,error: undefined method `first' for nil:NilClass,3 Village Avenue,2305768845.17
+691,error: undefined method `first' for nil:NilClass,22 Carey Circle,8297087555.16
+692,error: undefined method `first' for nil:NilClass,9 Barby Junction,3690287123.47
+693,error: undefined method `first' for nil:NilClass,3436 Eastlawn Drive,5710887079.27
+694,error: undefined method `first' for nil:NilClass,5 Northview Circle,4226912939.25
+695,error: undefined method `first' for nil:NilClass,69974 Loeprich Drive,9637623824.77
+696,error: undefined method `first' for nil:NilClass,3 Vahlen Avenue,7155620196.06
+697,error: undefined method `first' for nil:NilClass,98 Butterfield Street,6433627270.52
+698,error: undefined method `first' for nil:NilClass,50219 8th Road,9390067171.38
+699,error: undefined method `first' for nil:NilClass,877 Scoville Junction,7374362089.99
+700,error: undefined method `first' for nil:NilClass,34961 3rd Drive,3032867488.84
+701,error: undefined method `first' for nil:NilClass,1 Nelson Road,1919410726.57
+702,error: undefined method `first' for nil:NilClass,9069 Steensland Court,5147151842.83
+703,error: undefined method `first' for nil:NilClass,2 Sheridan Park,8163815793.24
+704,error: undefined method `first' for nil:NilClass,43 Transport Terrace,6689430873.71
+705,error: undefined method `first' for nil:NilClass,54338 Kings Lane,3636180381.92
+706,error: undefined method `first' for nil:NilClass,60 School Parkway,399726075.61
+707,error: undefined method `first' for nil:NilClass,2 Claremont Point,4361768010.66
+708,error: undefined method `first' for nil:NilClass,22554 Longview Crossing,5718370513.03
+709,error: undefined method `first' for nil:NilClass,95723 Reinke Point,4779306263.12
+710,error: undefined method `first' for nil:NilClass,967 Mcbride Junction,3500300245.24
+711,error: undefined method `first' for nil:NilClass,4082 Dottie Hill,4784024853.59
+712,error: undefined method `first' for nil:NilClass,46654 Norway Maple Drive,2858682835.82
+713,error: undefined method `first' for nil:NilClass,9912 Homewood Place,6058468335.52
+714,error: undefined method `first' for nil:NilClass,2585 Lillian Plaza,2303295822.05
+715,error: undefined method `first' for nil:NilClass,686 Arkansas Terrace,8462858064.84
+716,error: undefined method `first' for nil:NilClass,76956 Maryland Trail,6439083830.66
+717,error: undefined method `first' for nil:NilClass,1 Nancy Plaza,1832997609.86
+718,error: undefined method `first' for nil:NilClass,5 Crest Line Way,5414638248.46
+719,error: undefined method `first' for nil:NilClass,0349 Longview Drive,9203936091.01
+720,error: undefined method `first' for nil:NilClass,5 8th Court,7700226419.22
+721,error: undefined method `first' for nil:NilClass,941 Everett Junction,1525707105.72
+722,error: undefined method `first' for nil:NilClass,2 Center Place,301319765.63
+723,error: undefined method `first' for nil:NilClass,73102 Hagan Center,6079115384.35
+724,error: undefined method `first' for nil:NilClass,29 Esker Hill,7277581859.25
+725,error: undefined method `first' for nil:NilClass,8 Anniversary Street,608772799.1
+726,error: undefined method `first' for nil:NilClass,61 Harbort Court,4122640228.71
+727,error: undefined method `first' for nil:NilClass,6 Grim Street,1990081934.62
+728,error: undefined method `first' for nil:NilClass,40 Lakewood Gardens Parkway,6461219442.48
+729,error: undefined method `first' for nil:NilClass,19 Hanson Hill,2961918117.18
+730,error: undefined method `first' for nil:NilClass,16085 Ludington Parkway,7043697649.32
+731,error: undefined method `first' for nil:NilClass,06 Eastwood Park,9806081176.46
+732,error: undefined method `first' for nil:NilClass,225 Muir Center,8182005840.13
+733,error: undefined method `first' for nil:NilClass,51 Drewry Park,3182262897.52
+734,error: undefined method `first' for nil:NilClass,6573 Susan Drive,2237684842.49
+735,error: undefined method `first' for nil:NilClass,3186 Harper Lane,5194881995.04
+736,error: undefined method `first' for nil:NilClass,80629 Lake View Plaza,1923177854.69
+737,error: undefined method `first' for nil:NilClass,6713 Utah Crossing,4868301765.67
+738,error: undefined method `first' for nil:NilClass,064 Nelson Point,2763320825.2
+739,error: undefined method `first' for nil:NilClass,3814 Prairieview Way,1912798698.55
+740,error: undefined method `first' for nil:NilClass,155 Oak Valley Drive,4805510871.94
+741,error: undefined method `first' for nil:NilClass,719 Westend Alley,5604641834.04
+742,error: undefined method `first' for nil:NilClass,76 Hanover Trail,8245355525.47
+743,error: undefined method `first' for nil:NilClass,43 Norway Maple Park,3296849697.62
+744,error: undefined method `first' for nil:NilClass,15793 Onsgard Street,5917303046.03
+745,error: undefined method `first' for nil:NilClass,16798 Debra Way,9380892506.33
+746,error: undefined method `first' for nil:NilClass,98754 Monument Place,3642366761.77
+747,error: undefined method `first' for nil:NilClass,7 Basil Junction,3650206897.88
+748,error: undefined method `first' for nil:NilClass,94 Eastlawn Place,8571928158.13
+749,error: undefined method `first' for nil:NilClass,36 Lawn Drive,3140973548.69
+750,error: undefined method `first' for nil:NilClass,88380 Coleman Trail,9571086937.46
+751,error: undefined method `first' for nil:NilClass,80136 Dakota Junction,1715706716.16
+752,error: undefined method `first' for nil:NilClass,40394 Oak Valley Alley,3037404152.23
+753,error: undefined method `first' for nil:NilClass,8 Lakeland Junction,3258842616.6
+754,error: undefined method `first' for nil:NilClass,78789 Sugar Crossing,9113573151.08
+755,error: undefined method `first' for nil:NilClass,13 Grover Alley,9848136093.29
+756,error: undefined method `first' for nil:NilClass,0 Towne Parkway,7409328445.15
+757,error: undefined method `first' for nil:NilClass,3 Kinsman Pass,3925788814.11
+758,error: undefined method `first' for nil:NilClass,33531 Dixon Point,780982232.46
+759,error: undefined method `first' for nil:NilClass,5900 Arrowood Avenue,1081007786.09
+760,error: undefined method `first' for nil:NilClass,9 South Park,5867809384.84
+761,error: undefined method `first' for nil:NilClass,887 Truax Center,191942742.07
+762,error: undefined method `first' for nil:NilClass,10 Arrowood Trail,7158872344.96
+763,error: undefined method `first' for nil:NilClass,7114 Vera Road,2214495481.09
+764,error: undefined method `first' for nil:NilClass,6979 Toban Drive,9785132033.71
+765,error: undefined method `first' for nil:NilClass,6 Bunting Point,1354006446.49
+766,error: undefined method `first' for nil:NilClass,695 Porter Street,7139667271.6
+767,error: undefined method `first' for nil:NilClass,2106 Waubesa Lane,903471876.98
+768,error: undefined method `first' for nil:NilClass,172 Village Street,3502330291.5
+769,error: undefined method `first' for nil:NilClass,72 Manitowish Point,9632301329.57
+770,error: undefined method `first' for nil:NilClass,54 Nobel Pass,8291205846.29
+771,error: undefined method `first' for nil:NilClass,506 Doe Crossing Plaza,9310159759.18
+772,error: undefined method `first' for nil:NilClass,3 Garrison Center,640326220.53
+773,error: undefined method `first' for nil:NilClass,72407 Warbler Terrace,1969201528.27
+774,error: undefined method `first' for nil:NilClass,26630 Loomis Lane,9800774904.26
+775,error: undefined method `first' for nil:NilClass,85327 Crescent Oaks Trail,4859445578.81
+776,error: undefined method `first' for nil:NilClass,2334 Caliangt Drive,9533201305.78
+777,error: undefined method `first' for nil:NilClass,27 Atwood Plaza,1683355519.18
+778,error: undefined method `first' for nil:NilClass,4181 Sunfield Junction,404299407.36
+779,error: undefined method `first' for nil:NilClass,17 Pierstorff Trail,419748750.25
+780,error: undefined method `first' for nil:NilClass,721 South Crossing,2483515094.07
+781,error: undefined method `first' for nil:NilClass,72538 Hanson Hill,3534992255.61
+782,error: undefined method `first' for nil:NilClass,94670 Corscot Hill,4541473755.21
+783,error: undefined method `first' for nil:NilClass,36 Golden Leaf Road,4260575521.59
+784,error: undefined method `first' for nil:NilClass,0 Erie Hill,5370405113.35
+785,error: undefined method `first' for nil:NilClass,8 Annamark Way,9012312535.43
+786,error: undefined method `first' for nil:NilClass,5292 Dorton Court,1018913435.17
+787,error: undefined method `first' for nil:NilClass,66618 Mosinee Place,8440513886.0
+788,error: undefined method `first' for nil:NilClass,36 Iowa Drive,7322318214.25
+789,error: undefined method `first' for nil:NilClass,9 Longview Pass,1651730498.94
+790,error: undefined method `first' for nil:NilClass,4497 La Follette Street,6750029259.92
+791,error: undefined method `first' for nil:NilClass,562 Charing Cross Plaza,6318994057.36
+792,error: undefined method `first' for nil:NilClass,5922 Becker Court,7437726580.76
+793,error: undefined method `first' for nil:NilClass,07634 Pine View Hill,545331416.69
+794,error: undefined method `first' for nil:NilClass,7761 Dwight Trail,2612601805.63
+795,error: undefined method `first' for nil:NilClass,30 Stephen Court,7244756536.22
+796,error: undefined method `first' for nil:NilClass,09 Grasskamp Junction,5118529337.02
+797,error: undefined method `first' for nil:NilClass,45 Haas Hill,4760171605.52
+798,error: undefined method `first' for nil:NilClass,1178 Paget Junction,9449418745.86
+799,error: undefined method `first' for nil:NilClass,9125 Raven Lane,2714650564.06
+800,error: undefined method `first' for nil:NilClass,54 Barnett Drive,5292488019.07
+801,error: undefined method `first' for nil:NilClass,474 Mcbride Drive,8064677167.2
+802,error: undefined method `first' for nil:NilClass,538 Erie Park,779694982.78
+803,error: undefined method `first' for nil:NilClass,3862 Katie Drive,6591582829.7
+804,error: undefined method `first' for nil:NilClass,7 Hanson Avenue,878577835.93
+805,error: undefined method `first' for nil:NilClass,64 Talisman Park,1679192495.17
+806,error: undefined method `first' for nil:NilClass,23426 Roth Drive,3908930357.57
+807,error: undefined method `first' for nil:NilClass,00 2nd Point,371406553.52
+808,error: undefined method `first' for nil:NilClass,6283 Pond Plaza,6607472165.52
+809,error: undefined method `first' for nil:NilClass,9270 Johnson Hill,1242771451.16
+810,error: undefined method `first' for nil:NilClass,7 Clemons Parkway,8677356701.42
+811,error: undefined method `first' for nil:NilClass,2 Havey Court,4438368516.85
+812,error: undefined method `first' for nil:NilClass,1 Corry Crossing,5870404383.61
+813,error: undefined method `first' for nil:NilClass,42723 Daystar Place,8369935182.37
+814,error: undefined method `first' for nil:NilClass,8 Goodland Parkway,7030317654.26
+815,error: undefined method `first' for nil:NilClass,1 Victoria Circle,7037888344.14
+816,error: undefined method `first' for nil:NilClass,55866 Sommers Terrace,3509497118.79
+817,error: undefined method `first' for nil:NilClass,47430 Kenwood Avenue,5889880444.92
+818,error: undefined method `first' for nil:NilClass,54923 Steensland Drive,4917964487.81
+819,error: undefined method `first' for nil:NilClass,6 Lerdahl Way,4420594243.22
+820,error: undefined method `first' for nil:NilClass,8446 Stone Corner Pass,1375967863.97
+821,error: undefined method `first' for nil:NilClass,5 Oak Valley Drive,1882843257.1
+822,error: undefined method `first' for nil:NilClass,40 Sundown Point,8690084780.99
+823,error: undefined method `first' for nil:NilClass,602 Darwin Court,2928595448.56
+824,error: undefined method `first' for nil:NilClass,60 Maple Wood Lane,2382868646.86
+825,error: undefined method `first' for nil:NilClass,33 Grover Hill,5486766483.42
+826,error: undefined method `first' for nil:NilClass,9990 Saint Paul Plaza,6891417078.81
+827,error: undefined method `first' for nil:NilClass,2017 Moland Place,2860507629.86
+828,error: undefined method `first' for nil:NilClass,97 Eggendart Center,8822513653.9
+829,error: undefined method `first' for nil:NilClass,7 Anniversary Park,1154058890.53
+830,error: undefined method `first' for nil:NilClass,5931 Jay Terrace,219338637.67
+831,error: undefined method `first' for nil:NilClass,37118 Doe Crossing Place,2728293571.96
+832,error: undefined method `first' for nil:NilClass,286 Stuart Crossing,2466777032.81
+833,error: undefined method `first' for nil:NilClass,5552 Arkansas Drive,7383980018.72
+834,error: undefined method `first' for nil:NilClass,22 Fisk Street,6470483562.97
+835,error: undefined method `first' for nil:NilClass,3297 Green Ridge Terrace,2937894199.85
+836,error: undefined method `first' for nil:NilClass,514 Lakewood Gardens Way,4565309724.52
+837,error: undefined method `first' for nil:NilClass,14 Hollow Ridge Park,5860794918.1
+838,error: undefined method `first' for nil:NilClass,18 Mendota Place,8526917954.18
+839,error: undefined method `first' for nil:NilClass,39370 Westport Plaza,3103608434.76
+840,error: undefined method `first' for nil:NilClass,21 Eliot Point,3400877008.71
+841,error: undefined method `first' for nil:NilClass,9487 Claremont Plaza,4070672497.17
+842,error: undefined method `first' for nil:NilClass,38 Westend Junction,7873784949.45
+843,error: undefined method `first' for nil:NilClass,2 Ilene Point,7973165528.82
+844,error: undefined method `first' for nil:NilClass,872 Lyons Avenue,8221808669.89
+845,error: undefined method `first' for nil:NilClass,11737 Monterey Parkway,3841871294.14
+846,error: undefined method `first' for nil:NilClass,2634 Armistice Drive,8023348470.72
+847,error: undefined method `first' for nil:NilClass,280 Sunfield Crossing,5186236626.44
+848,error: undefined method `first' for nil:NilClass,64485 Claremont Plaza,6378264139.76
+849,error: undefined method `first' for nil:NilClass,114 Main Avenue,2821024227.89
+850,error: undefined method `first' for nil:NilClass,8094 Prairie Rose Hill,6567043388.37
+851,error: undefined method `first' for nil:NilClass,74760 Acker Road,9509231114.14
+852,error: undefined method `first' for nil:NilClass,3100 Sugar Alley,6027897348.72
+853,error: undefined method `first' for nil:NilClass,9494 Pierstorff Pass,3158254896.53
+854,error: undefined method `first' for nil:NilClass,1 Jana Trail,4933467552.33
+855,error: undefined method `first' for nil:NilClass,8 Schmedeman Trail,1755965371.03
+856,error: undefined method `first' for nil:NilClass,728 Norway Maple Way,5183704084.03
+857,error: undefined method `first' for nil:NilClass,53041 Heath Parkway,681573585.46
+858,error: undefined method `first' for nil:NilClass,28 Mitchell Plaza,2084099682.44
+859,error: undefined method `first' for nil:NilClass,551 Delladonna Terrace,6318586844.17
+860,error: undefined method `first' for nil:NilClass,619 Union Trail,2829873157.93
+861,error: undefined method `first' for nil:NilClass,87 Algoma Pass,1424507606.57
+862,error: undefined method `first' for nil:NilClass,1334 Lighthouse Bay Junction,8196012672.66
+863,error: undefined method `first' for nil:NilClass,6052 Clyde Gallagher Hill,8168388728.81
+864,error: undefined method `first' for nil:NilClass,02 Bartillon Crossing,5588098856.88
+865,error: undefined method `first' for nil:NilClass,573 Fulton Center,8610328456.79
+866,error: undefined method `first' for nil:NilClass,652 Ridgeview Alley,4760675292.28
+867,error: undefined method `first' for nil:NilClass,8319 Ridge Oak Court,5738253576.77
+868,error: undefined method `first' for nil:NilClass,99877 Anthes Hill,4200407912.81
+869,error: undefined method `first' for nil:NilClass,4 Moland Junction,4949229972.79
+870,error: undefined method `first' for nil:NilClass,11 Spohn Drive,6126021823.13
+871,error: undefined method `first' for nil:NilClass,53 Marcy Pass,5914064802.68
+872,error: undefined method `first' for nil:NilClass,105 Cody Way,9151205384.85
+873,error: undefined method `first' for nil:NilClass,65568 Heffernan Place,2327337041.16
+874,error: undefined method `first' for nil:NilClass,43857 Cardinal Junction,5631296703.96
+875,error: undefined method `first' for nil:NilClass,8034 Aberg Avenue,5371450454.95
+876,error: undefined method `first' for nil:NilClass,34 Rigney Court,9704384935.08
+877,error: undefined method `first' for nil:NilClass,96943 Shasta Trail,2283287757.2
+878,error: undefined method `first' for nil:NilClass,2 Coleman Pass,3028144436.77
+879,error: undefined method `first' for nil:NilClass,86818 Warner Pass,1255491483.42
+880,error: undefined method `first' for nil:NilClass,485 Jay Trail,6453323514.37
+881,error: undefined method `first' for nil:NilClass,67213 Upham Road,8286436312.57
+882,error: undefined method `first' for nil:NilClass,752 Ludington Crossing,9679717812.62
+883,error: undefined method `first' for nil:NilClass,54191 Butternut Hill,3045557218.55
+884,error: undefined method `first' for nil:NilClass,7737 Almo Street,7144641628.06
+885,error: undefined method `first' for nil:NilClass,5558 Hallows Plaza,4726882851.55
+886,error: undefined method `first' for nil:NilClass,43766 Riverside Plaza,9347570728.18
+887,error: undefined method `first' for nil:NilClass,50188 Sachs Terrace,8755837036.83
+888,error: undefined method `first' for nil:NilClass,3459 Shoshone Plaza,2896911857.3
+889,error: undefined method `first' for nil:NilClass,38 Stuart Avenue,729167502.67
+890,error: undefined method `first' for nil:NilClass,88 Judy Junction,3651096969.23
+891,error: undefined method `first' for nil:NilClass,89 8th Place,904934097.81
+892,error: undefined method `first' for nil:NilClass,04039 Declaration Parkway,3862022203.64
+893,error: undefined method `first' for nil:NilClass,89 Aberg Court,2120028009.58
+894,error: undefined method `first' for nil:NilClass,30 Brentwood Crossing,3792149706.34
+895,error: undefined method `first' for nil:NilClass,22 Melody Center,2629837943.23
+896,error: undefined method `first' for nil:NilClass,6046 Briar Crest Trail,8323303718.1
+897,error: undefined method `first' for nil:NilClass,286 Beilfuss Plaza,5144806154.08
+898,error: undefined method `first' for nil:NilClass,0 Calypso Way,8127197371.98
+899,error: undefined method `first' for nil:NilClass,47186 John Wall Avenue,2094583989.42
+900,error: undefined method `first' for nil:NilClass,1 Lien Way,5298386865.66
+901,error: undefined method `first' for nil:NilClass,09 Holmberg Alley,2988285350.09
+902,error: undefined method `first' for nil:NilClass,19165 Sauthoff Park,6826975606.22
+903,error: undefined method `first' for nil:NilClass,83 Spenser Hill,9761872681.21
+904,error: undefined method `first' for nil:NilClass,35 Ruskin Point,8966461893.38
+905,error: undefined method `first' for nil:NilClass,634 Farmco Avenue,8077933342.5
+906,error: undefined method `first' for nil:NilClass,9686 Huxley Circle,4242757042.88
+907,error: undefined method `first' for nil:NilClass,9950 Nelson Circle,8099840186.61
+908,error: undefined method `first' for nil:NilClass,82794 Del Sol Plaza,3398713716.11
+909,error: undefined method `first' for nil:NilClass,8 Blue Bill Park Terrace,3274554342.73
+910,error: undefined method `first' for nil:NilClass,38 Evergreen Parkway,790791399.84
+911,error: undefined method `first' for nil:NilClass,7287 Delaware Terrace,3252289003.75
+912,error: undefined method `first' for nil:NilClass,9328 Linden Circle,1398442882.26
+913,error: undefined method `first' for nil:NilClass,3965 Butternut Junction,5751700194.31
+914,error: undefined method `first' for nil:NilClass,46829 Hermina Parkway,192162565.57
+915,error: undefined method `first' for nil:NilClass,38 Upham Junction,5466633926.85
+916,error: undefined method `first' for nil:NilClass,07 Fuller Way,9536895494.8
+917,error: undefined method `first' for nil:NilClass,89571 Waubesa Hill,619554602.72
+918,error: undefined method `first' for nil:NilClass,439 Cordelia Place,8110912949.47
+919,error: undefined method `first' for nil:NilClass,12 Mariners Cove Crossing,2305301998.98
+920,error: undefined method `first' for nil:NilClass,9 Almo Place,2569867481.59
+921,error: undefined method `first' for nil:NilClass,99 Helena Road,1742259370.35
+922,error: undefined method `first' for nil:NilClass,915 Old Gate Street,7268278498.31
+923,error: undefined method `first' for nil:NilClass,9 Katie Pass,9418417302.95
+924,error: undefined method `first' for nil:NilClass,03687 Green Ridge Park,9156344010.01
+925,error: undefined method `first' for nil:NilClass,8815 Manley Plaza,3486477100.91
+926,error: undefined method `first' for nil:NilClass,69360 Scofield Circle,6437110412.48
+927,error: undefined method `first' for nil:NilClass,039 Roxbury Place,4564182592.36
+928,error: undefined method `first' for nil:NilClass,2273 Anniversary Terrace,864717315.98
+929,error: undefined method `first' for nil:NilClass,89 Ridgeview Avenue,9372310922.68
+930,error: undefined method `first' for nil:NilClass,62 Miller Court,8522456707.83
+931,error: undefined method `first' for nil:NilClass,13259 Esker Court,613618983.0
+932,error: undefined method `first' for nil:NilClass,05 Lyons Road,9236343581.56
+933,error: undefined method `first' for nil:NilClass,36 Magdeline Trail,8681735638.72
+934,error: undefined method `first' for nil:NilClass,9 Toban Plaza,8577880721.28
+935,error: undefined method `first' for nil:NilClass,94 East Terrace,3311641394.17
+936,error: undefined method `first' for nil:NilClass,7 Forest Dale Road,22618477.22
+937,error: undefined method `first' for nil:NilClass,1 Nobel Drive,7071542770.2
+938,error: undefined method `first' for nil:NilClass,01 Schiller Drive,7260962643.36
+939,error: undefined method `first' for nil:NilClass,4356 Burning Wood Hill,5450748150.18
+940,error: undefined method `first' for nil:NilClass,13 Summit Avenue,7402012651.14
+941,error: undefined method `first' for nil:NilClass,98542 Hallows Trail,6672703525.12
+942,error: undefined method `first' for nil:NilClass,20 Weeping Birch Crossing,7912070892.86
+943,error: undefined method `first' for nil:NilClass,2 Doe Crossing Place,2293587912.84
+944,error: undefined method `first' for nil:NilClass,9 Transport Crossing,3057680613.25
+945,error: undefined method `first' for nil:NilClass,88681 Amoth Street,389838676.5
+946,error: undefined method `first' for nil:NilClass,787 Arrowood Drive,1282809476.94
+947,error: undefined method `first' for nil:NilClass,184 Tomscot Way,6223281724.47
+948,error: undefined method `first' for nil:NilClass,25166 Longview Way,3757641775.56
+949,error: undefined method `first' for nil:NilClass,42 Stang Place,8548768126.68
+950,error: undefined method `first' for nil:NilClass,85 Marcy Parkway,6181284916.85
+951,error: undefined method `first' for nil:NilClass,93 Arkansas Hill,2119858994.04
+952,error: undefined method `first' for nil:NilClass,49494 Commercial Street,1910756028.66
+953,error: undefined method `first' for nil:NilClass,26598 Buena Vista Pass,1290216161.38
+954,error: undefined method `first' for nil:NilClass,686 Moulton Crossing,1552752505.59
+955,error: undefined method `first' for nil:NilClass,608 Carey Junction,4243380336.06
+956,error: undefined method `first' for nil:NilClass,6 Graceland Parkway,4133389389.54
+957,error: undefined method `first' for nil:NilClass,71590 Mitchell Alley,7320221779.52
+958,error: undefined method `first' for nil:NilClass,6 Jenifer Hill,6483800585.79
+959,error: undefined method `first' for nil:NilClass,8391 Oriole Hill,8856672839.25
+960,error: undefined method `first' for nil:NilClass,9 Corscot Parkway,6073715382.79
+961,error: undefined method `first' for nil:NilClass,9393 Everett Drive,2237863248.45
+962,error: undefined method `first' for nil:NilClass,81 2nd Circle,7817122094.92
+963,error: undefined method `first' for nil:NilClass,743 Lukken Parkway,4260540136.95
+964,error: undefined method `first' for nil:NilClass,89 Glendale Park,7837276163.39
+965,error: undefined method `first' for nil:NilClass,8448 Park Meadow Plaza,168956262.86
+966,error: undefined method `first' for nil:NilClass,7183 Lakeland Circle,6026290623.22
+967,error: undefined method `first' for nil:NilClass,9579 Sunbrook Court,4367560.62
+968,error: undefined method `first' for nil:NilClass,13 Redwing Terrace,8838802859.18
+969,error: undefined method `first' for nil:NilClass,7442 Messerschmidt Parkway,5264251132.38
+970,error: undefined method `first' for nil:NilClass,32 Miller Center,7079017071.08
+971,error: undefined method `first' for nil:NilClass,9765 Leroy Pass,1288958246.88
+972,error: undefined method `first' for nil:NilClass,8 Hallows Junction,3475533854.65
+973,error: undefined method `first' for nil:NilClass,006 8th Lane,4668984024.73
+974,error: undefined method `first' for nil:NilClass,536 Anniversary Point,1785202191.9
+975,error: undefined method `first' for nil:NilClass,6725 8th Avenue,5962689196.37
+976,error: undefined method `first' for nil:NilClass,20824 Meadow Ridge Terrace,833068205.34
+977,error: undefined method `first' for nil:NilClass,3113 International Place,728975545.28
+978,error: undefined method `first' for nil:NilClass,74 Becker Way,9237539606.07
+979,error: undefined method `first' for nil:NilClass,97 Milwaukee Drive,7622109876.83
+980,error: undefined method `first' for nil:NilClass,606 Spenser Parkway,7414257572.99
+981,error: undefined method `first' for nil:NilClass,732 Bobwhite Circle,7002365198.04
+982,error: undefined method `first' for nil:NilClass,7312 Waxwing Drive,4219580099.27
+983,error: undefined method `first' for nil:NilClass,98109 Esker Hill,6700357599.7
+984,error: undefined method `first' for nil:NilClass,037 Waxwing Circle,8613978819.39
+985,error: undefined method `first' for nil:NilClass,4260 Crowley Circle,1048031183.5
+986,error: undefined method `first' for nil:NilClass,4 Sullivan Crossing,6325218958.82
+987,error: undefined method `first' for nil:NilClass,94384 Algoma Alley,1401137761.7
+988,error: undefined method `first' for nil:NilClass,0 Pankratz Court,3182068390.27
+989,error: undefined method `first' for nil:NilClass,697 Dennis Place,7285633553.07
+990,error: undefined method `first' for nil:NilClass,514 Nobel Road,7733960417.11
+991,error: undefined method `first' for nil:NilClass,69 Anniversary Road,8708388061.46
+992,error: undefined method `first' for nil:NilClass,7955 Anderson Hill,5354724443.35
+993,error: undefined method `first' for nil:NilClass,99508 Birchwood Center,4376708805.84
+994,error: undefined method `first' for nil:NilClass,70 Ruskin Avenue,577454231.16
+995,error: undefined method `first' for nil:NilClass,17 Norway Maple Hill,1945173852.12
+996,error: undefined method `first' for nil:NilClass,70087 Northwestern Lane,620248579.16
+997,error: undefined method `first' for nil:NilClass,550 Heffernan Drive,2724094704.82
+998,error: undefined method `first' for nil:NilClass,5841 Crescent Oaks Terrace,2672805217.94
+999,error: undefined method `first' for nil:NilClass,9 Oakridge Terrace,2768099419.43
+1000,error: undefined method `first' for nil:NilClass,482 Hudson Drive,2251875743.25

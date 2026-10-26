@@ -1,6 +1,6 @@
 # Adding new practice files
 
-Drop new files into the matching dataset folder (`nms-dataset/`, `grocery-dataset/`, `w3resources-dataset/`), or create a new folder if it's a new dataset/source.
+Drop new files into the matching dataset folder (`nms-dataset/`, `grocery-dataset/`, `w3resources-dataset/`, `mock-hr-dataset/`), or create a new folder if it's a new dataset/source.
 
 Naming: `<dataset>_practice_<n>.sql` (e.g. `nms_practice_4.sql`), or `YYYY-MM-DD_short-description.sql` for one-off drills that don't belong to a recurring dataset.
 
